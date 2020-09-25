@@ -1,4 +1,3 @@
-CSC 305 Assignment 4
 
 Features checklist:
 - Pinhole camera system
